@@ -2,7 +2,7 @@
 
 A lightweight, web-based Artificial Intelligence image classification application built with Python and Streamlit. The app uses TensorFlow's pre-trained **MobileNetV2** model to instantly analyze and classify uploaded images.
 
-### 🚀 [Try the Live App Here]([https://your-app-url.streamlit.app](https://manghiam-ai-image-classifier.streamlit.app/)
+### 🚀 [Try the Live App Here]([https://your-app-url.streamlit.app](https://manghiam-ai-image-classifier.streamlit.app/])
 
 ## 🛠️ Tech Stack
 * **Frontend/UI:** [Streamlit](https://streamlit.io/)
